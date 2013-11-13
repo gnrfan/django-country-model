@@ -1,4 +1,4 @@
-module_file = open("country_model/__init__.py").read()
+module_file = open("countrymodel/__init__.py").read()
 long_description = open('README.md').read()
 
 from setuptools import setup, find_packages
