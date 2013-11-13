@@ -1,2 +1,2 @@
-from .models import MultiCountry
-from .admin import MultiCountryAdmin
+from .models import CountryModel
+from .admin import CountryModelAdmin

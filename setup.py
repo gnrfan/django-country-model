@@ -10,7 +10,7 @@ setup(
     author='Ivo Sanchez Checa Crosato',
     author_email='ivoscc [at] gmail.com',
     install_requires=['django', 'django_countries', 'south'],
-    url='http://github.com/muleros/django-redis-countries',
+    url='https://bitbucket.org/ivoscc/django_countrymodel',
     license="MIT",
     zip_safe=False,
     keywords="django, countries, models",

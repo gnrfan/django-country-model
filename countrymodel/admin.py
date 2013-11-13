@@ -3,5 +3,5 @@
 from django.contrib import admin
 
 
-class MultiCountryAdmin(admin.ModelAdmin):
+class CountryModelAdmin(admin.ModelAdmin):
     list_display = ('name', 'code')

@@ -4,7 +4,7 @@ from django.db import models
 from django_countries import CountryField
 
 
-class MultiCountry(models.Model):
+class CountryModel(models.Model):
 
     """Model wrapper around django_countries' CountryField."""
 
