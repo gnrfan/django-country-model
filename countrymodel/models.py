@@ -24,5 +24,5 @@ class MultiCountry(models.Model):
         return u"%s (%s)" % (self.name, self.code)
 
     class Meta:
-        verbose_name = strings.COUNTRY
-        verbose_name_plural = strings.COUNTRIES
+        verbose_name = "country"
+        verbose_name_plural = "countries"
