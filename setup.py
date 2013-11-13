@@ -9,7 +9,7 @@ setup(
     packages=find_packages(),
     author='Ivo Sanchez Checa Crosato',
     author_email='ivoscc [at] gmail.com',
-    install_requires=['django', 'django_countries'],
+    install_requires=['django', 'django_countries', 'south'],
     url='http://github.com/muleros/django-redis-countries',
     license="MIT",
     zip_safe=False,
